@@ -1,0 +1,3 @@
+Machine learning is a branch of artificial intelligence.
+Machine learning algorithms learn patterns from data.
+Python is commonly used for machine learning.

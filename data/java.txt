@@ -1,0 +1,3 @@
+Java is a popular programming language.
+Java is widely used for software development.
+Java is commonly used to build large applications.

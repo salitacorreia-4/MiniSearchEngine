@@ -1,0 +1,3 @@
+Data science combines statistics, programming and machine learning.
+Python is widely used by data scientists.
+Data science is used to analyze large datasets.

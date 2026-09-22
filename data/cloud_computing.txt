@@ -1,0 +1,3 @@
+Eliminates upfront hardware expenses; you pay only for the resources you see
+Easily scales computing power and storage up or down to match changing demands
+allows secure access to files,apps

@@ -1,0 +1,3 @@
+A data structure is a specialized format for organizing, storing, and managing data in a computer
+think of it as a library
+Dara structure provides the foundational framework

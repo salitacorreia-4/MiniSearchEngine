@@ -1,0 +1,3 @@
+A Computer network is a system of interconnected devices
+they communicated using wired or wireless connections
+Allows sharing of hardware like printers, scanners, reducing cost

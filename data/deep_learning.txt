@@ -1,0 +1,3 @@
+Deep Learning is a subset of machine learning based on multi-layered artificial neural networks
+The word 'deep' refers to the presence of many layers
+unlike traditional machine learning
